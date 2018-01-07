@@ -173,7 +173,6 @@
 <a href="/posts/documentary/ancient-black-ops" target="_blank">Ancient Black Ops</a><br />
 <a href="/posts/documentary/ancient-case-files" target="_blank">Ancient Case Files</a><br />
 <a href="/posts/documentary/ancient-egypt-life-and-death-in-the-valley-of-the-kings" target="_blank">Ancient Egypt Life and Death In The Valley Of The Kings</a><br />
-<a href="/posts/documentary/ancient-impossible" target="_blank">Ancient Impossible</a><br />
 <a href="/posts/documentary/ancient-mysteries-americas-hidden-pyramid-city" target="_blank">Ancient Mysteries: Americas Hidden Pyramid City</a><br />
 <a href="/posts/documentary/ancient-mysteries-the-lost-city-of-the-pharohas" target="_blank">Ancient Mysteries: The Lost City Of The Pharohas</a><br />
 <a href="/posts/documentary/and-the-oscar-goes-to" target="_blank">And The Oscar Goes To</a><br />

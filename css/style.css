@@ -10,6 +10,7 @@ body
   background: #F0EFE2; color: #FFF;
   background-color: #11110c;
 }
+}
 
 p
 { padding: 0 0 20px 0;
@@ -201,10 +202,17 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 { text-align: left;
   float: left;
   width: 595px;
-  padding: 0;}
+  padding: 0px;
+}
 
-#content ul
+#content 
 { margin: 2px 0 22px 0px;}
+
+#content li
+{ list-style-type: none;
+  background: url(http://awesomedl.github.io/css/bullet.png) no-repeat;
+  margin: 0 0 6px 0; 
+  padding: 0 0 0px 15px;}
 
 #content ul li
 { list-style-type: none;

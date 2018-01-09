@@ -40,16 +40,16 @@ h5, h6
 a:hover
 { outline: none;
   text-decoration: underline;
-  color: #FFF;}
+  color: #1E90FF;}
 
 a:link {
     text-decoration: none;
-    color: #FFF;
+    color: #1E90FF;
 }
 
 a:visited {
     text-decoration: none;
-    color: #1E90FF;
+    color: #ff99ce;
 }
 
 a:hover {

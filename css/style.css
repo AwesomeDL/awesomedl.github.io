@@ -19,7 +19,7 @@ p
 img
 { border: 0;}
 
-h1, h2, h3, h4, h5, h6 
+h1, h2, h3, h4
 { font: normal 175% 'century gothic', arial, sans-serif;
   color: #FA057E;
   margin: 0 0 15px 0;
@@ -28,14 +28,15 @@ h1, h2, h3, h4, h5, h6
 h2
 { font: normal 175% 'century gothic', arial, sans-serif;}
 
-h4, h5, h6
+h4
 { margin: 0;
   padding: 0 0 5px 0;
   font: normal 120% arial, sans-serif;}
 
 h5, h6
-{ font: italic 95% arial, sans-serif;
-  padding: 0 0 15px 0;}
+{ font: normal 93% arial, sans-serif;
+  color: #FFF;
+  padding: 0px 0 0px 0;}
 
 a:hover
 { outline: none;
